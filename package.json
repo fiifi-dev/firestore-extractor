@@ -1,0 +1,27 @@
+{
+  "name": "firestore-extractor",
+  "version": "1.0.0",
+  "description": "This app extracts specified collections in firestore into database.js file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiifi-dev/firestore-extractor.git"
+  },
+  "keywords": [
+    "firestore",
+    "extractor"
+  ],
+  "author": "Dickson Afful",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fiifi-dev/firestore-extractor/issues"
+  },
+  "homepage": "https://github.com/fiifi-dev/firestore-extractor#readme",
+  "dependencies": {
+    "firebase": "^7.21.1",
+    "yargs": "^16.0.3"
+  }
+}
